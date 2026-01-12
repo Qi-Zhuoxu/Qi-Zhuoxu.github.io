@@ -11,4 +11,4 @@ I earned my bachelor’s degree in Urban and Rural Planning from Xi’an Univers
 
 My research focuses on space genes and public perception, and further integrates topics such as place attachment, visual landscapes, and the urban thermal environment. I combine classical planning theories with multi-source spatiotemporal data (e.g., land-use data and social media data) and quantitative methods such as machine learning and natural language processing. In related projects, I can independently conduct data collection, model-based analysis, and academic writing.
 
-You can find my CV here: 
+You can find my CV here: https://github.com/Qi-Zhuoxu/Qi-Zhuoxu.github.io/blob/master/assets/Curriculum_Vitae.pdf
