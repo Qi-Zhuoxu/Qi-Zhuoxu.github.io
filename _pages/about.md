@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,4 +11,15 @@ I earned my bachelor’s degree in Urban and Rural Planning from Xi’an Univers
 
 My research focuses on space genes and public perception, and further integrates topics such as place attachment, visual landscapes, and the urban thermal environment. I combine classical planning theories with multi-source spatiotemporal data (e.g., land-use data and social media data) and quantitative methods such as machine learning and natural language processing. In related projects, I can independently conduct data collection, model-based analysis, and academic writing.
 
-You can find my CV here: https://github.com/Qi-Zhuoxu/Qi-Zhuoxu.github.io/blob/master/assets/Curriculum_Vitae.pdf
+---
+permalink: /
+title: "Education"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+·PhD in Rural and urban planning, Department of Urban Planning, School of Architecture, Southeast University, China (2022.09 - )
+·MSc in Rural and urban planning, Department of Urban Planning, School of Architecture, Southeast University, China (2019.09 - 2022.07)
+·BSc in Rural and urban planning, Department of Urban Planning, School of Architecture, Xi’an University of Architecture and Technology, China (2014.09-2019.07)
