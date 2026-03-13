@@ -1,7 +1,11 @@
 ---
 title: "Differential effects of objective and perceived environments on place attachment with emotion mediation: a case study in Nanjing, China"
 collection: publications
-category: manuscripts
+category: lead_articles
+pubtype: "Journal Article"
+authorship: "First author"
+authors: "Qi, Z., Lan, W., & Wang, Y."
+pubnote: "Frontiers in Built Environment, 11, 1727570"
 permalink: /publication/objective-perceived-environments-place-attachment-nanjing
 excerpt: "Investigates how objective and perceived streetscape environments shape place attachment through emotion mediation using image segmentation and survey data from Nanjing."
 date: 2025-12-12
