@@ -1,7 +1,11 @@
 ---
 title: "Planning Drainage and Storage Blocks to Reduce Urban Waterlogging Risk: A Case Study of the ‘July 20, 2021’ Heavy Rainstorm in Zhengzhou City, China"
 collection: publications
-category: conferences
+category: conference_papers
+pubtype: "Conference Paper"
+authorship: "First author"
+authors: "Qi, Z., Duan, J."
+pubnote: "AESOP Annual Congress 2024"
 permalink: /publication/planning-drainage-and-storage-blocks-aesop-2024
 excerpt: "Conference paper presented at AESOP 2024 on drainage and storage block planning for reducing urban waterlogging risk in Zhengzhou."
 date: 2024-07-01
