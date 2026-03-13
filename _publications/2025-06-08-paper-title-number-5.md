@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Impacts of Land Use Characteristics on Extreme Heat Events: Insights from Explainable Machine Learning Model"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+permalink: /publication/land-use-characteristics-extreme-heat-events
+excerpt: "Uses explainable machine learning to reveal the relative contribution, nonlinear effects, and interaction effects of land use characteristics on extreme heat events across Chinese cities."
+date: 2025-01-09
+venue: "Sustainable Cities and Society"
+paperurl: "https://doi.org/10.1016/j.scs.2025.106139"
+citation: 'Su, H., Qi, Z., & Wang, Q. (2025). &quot;Impacts of Land Use Characteristics on Extreme Heat Events: Insights from Explainable Machine Learning Model.&quot; <i>Sustainable Cities and Society</i>, 120, 106139.'
 ---
-
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+This paper investigates how land use size, share, mix, and intensity influence extreme heat events in 280 Chinese cities. The study shows that nonlinear and interaction effects are common and provides planning insights for mitigating heat risk through land use strategies.
