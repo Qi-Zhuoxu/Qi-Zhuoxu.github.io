@@ -1,7 +1,11 @@
 ---
 title: "Polycentric structure and urban thermal environment: A large-scale study from multi-perspectives"
 collection: publications
-category: manuscripts
+category: coauthored_articles
+pubtype: "Journal Article"
+authorship: "Second author"
+authors: "Su, H., & Qi, Z."
+pubnote: "Sustainable Cities and Society, 96, 104657"
 permalink: /publication/polycentric-structure-urban-thermal-environment
 excerpt: "Examines how polycentric development relates to surface urban heat islands and temperature differences between main centers and subcenters across 265 Chinese cities."
 date: 2023-05-15
