@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Using crowdsourcing images to assess visual quality of urban landscapes: A case study of Xiamen Island"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/crowdsourcing-images-visual-quality-xiamen
+excerpt: "Uses crowdsourced social media images and structural equation modeling to assess urban landscape visual quality on Xiamen Island."
+date: 2023-08-19
+venue: "Ecological Indicators"
+paperurl: "https://doi.org/10.1016/j.ecolind.2023.110793"
+citation: 'Qi, Z., Duan, J., Su, H., Fan, Z., & Lan, W. (2023). &quot;Using crowdsourcing images to assess visual quality of urban landscapes: A case study of Xiamen Island.&quot; <i>Ecological Indicators</i>, 154, 110793.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper uses crowdsourced social media images, semantic segmentation, factor analysis, and structural equation modeling to assess urban landscape visual quality on Xiamen Island. It highlights the importance of naturalness and clarifies how different landscape indicators jointly shape public preferences.
