@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Planning Drainage and Storage Blocks to Reduce Urban Waterlogging Risk: A Case Study of the ‘July 20, 2021’ Heavy Rainstorm in Zhengzhou City, China"
 collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+category: conferences
+permalink: /publication/planning-drainage-and-storage-blocks-aesop-2024
+excerpt: "Conference paper presented at AESOP 2024 on drainage and storage block planning for reducing urban waterlogging risk in Zhengzhou."
+date: 2024-07-01
+venue: "AESOP Annual Congress 2024"
+paperurl: "https://hdl.handle.net/20.500.14235/2151"
+citation: 'Qi, Z., Duan, J. (2024). &quot;Planning Drainage and Storage Blocks to Reduce Urban Waterlogging Risk: A Case Study of the ‘July 20, 2021’ Heavy Rainstorm in Zhengzhou City, China.&quot; <i>AESOP Annual Congress 2024</i>.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This conference paper discusses drainage and storage block planning strategies for reducing urban waterlogging risk, using the July 20, 2021 heavy rainstorm in Zhengzhou as a case study.
