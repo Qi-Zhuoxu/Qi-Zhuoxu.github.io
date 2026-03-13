@@ -41,3 +41,187 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* ===== Custom typography ===== */
+html {
+  font-size: 17px;
+}
+
+body {
+  font-family: "Inter", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans SC", "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.75;
+}
+
+.page__title {
+  font-size: 2.25rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  margin-bottom: 0.8rem;
+}
+
+.archive h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-top: 2.2rem;
+  margin-bottom: 0.9rem;
+}
+
+.archive p,
+.archive li,
+.page__content p,
+.page__content li {
+  font-size: 1rem;
+  line-height: 1.82;
+}
+
+.masthead__menu-item a {
+  font-size: 1.02rem;
+  font-weight: 600;
+}
+
+.sidebar p,
+.sidebar li {
+  font-size: 0.98rem;
+  line-height: 1.72;
+}
+
+.author__avatar img {
+  width: 170px;
+  height: 170px;
+  max-width: 170px;
+  object-fit: cover;
+  border-radius: 24px;
+}
+
+.publications-intro {
+  margin-bottom: 1.2rem;
+  color: var(--global-text-color-light);
+}
+
+.publication-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 1rem 0 2rem;
+}
+
+.publication-nav a {
+  display: inline-block;
+  padding: 0.45rem 0.9rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 999px;
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.publication-nav a:hover {
+  text-decoration: none;
+  border-color: var(--global-text-color);
+}
+
+.publication-section {
+  margin-top: 2.4rem;
+  scroll-margin-top: 90px;
+}
+
+.publication-card {
+  margin: 0 0 1.2rem;
+  padding: 1.2rem 1.25rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 18px;
+  background: var(--global-bg-color);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.04);
+}
+
+.publication-card__top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.publication-card__badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.pub-badge {
+  display: inline-block;
+  padding: 0.18rem 0.65rem;
+  border-radius: 999px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  border: 1px solid var(--global-border-color);
+}
+
+.pub-badge--light {
+  opacity: 0.85;
+}
+
+.pub-year {
+  font-size: 0.95rem;
+  color: var(--global-text-color-light);
+  white-space: nowrap;
+}
+
+.publication-card__title {
+  margin: 0 0 0.45rem;
+  font-size: 1.28rem;
+  line-height: 1.35;
+}
+
+.publication-card__title a {
+  text-decoration: none;
+}
+
+.publication-card__title a:hover {
+  text-decoration: underline;
+}
+
+.pub-authors {
+  margin: 0 0 0.25rem;
+  font-size: 0.98rem;
+}
+
+.pub-meta,
+.pub-patent-no {
+  margin: 0.18rem 0;
+  color: var(--global-text-color-light);
+  font-size: 0.94rem;
+}
+
+.pub-meta span + span::before {
+  content: "·";
+  margin: 0 0.45rem;
+}
+
+.pub-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.85rem;
+  margin-top: 0.85rem;
+}
+
+.pub-link {
+  font-size: 0.94rem;
+  font-weight: 600;
+}
+
+.pub-link--secondary {
+  opacity: 0.75;
+}
+
+.pub-link--secondary:hover {
+  opacity: 1;
+}
+
+.cv-note {
+  padding: 0.9rem 1rem;
+  margin: 0 0 1.5rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 14px;
+  background: var(--global-bg-color);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.04);
+}
