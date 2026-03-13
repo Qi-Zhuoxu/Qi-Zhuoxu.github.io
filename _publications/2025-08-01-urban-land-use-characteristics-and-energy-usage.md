@@ -1,7 +1,11 @@
 ---
 title: "Disentangling complex relationships between urban land use characteristics and energy usage through explainable machine learning model"
 collection: publications
-category: manuscripts
+category: lead_articles
+pubtype: "Journal Article"
+authorship: "First author"
+authors: "Qi, Z., Su, H., & Hou, K."
+pubnote: "Applied Geography, 183, 103736"
 permalink: /publication/urban-land-use-characteristics-energy-usage
 excerpt: "Examines nonlinear and interaction effects of multidimensional urban land use characteristics on energy consumption and energy efficiency using explainable machine learning."
 date: 2025-08-01
