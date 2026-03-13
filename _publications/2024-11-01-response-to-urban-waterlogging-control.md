@@ -1,7 +1,11 @@
 ---
 title: "Response to urban waterlogging control under different terrain conditions"
 collection: publications
-category: conferences
+category: conference_papers
+pubtype: "Conference Paper"
+authorship: "First author"
+authors: "Qi, Z."
+pubnote: "ACSP Annual Conference 2024"
 permalink: /publication/response-to-urban-waterlogging-control-acsp-2024
 excerpt: "Conference paper presented at ACSP 2024 on urban waterlogging control strategies under different terrain conditions."
 date: 2024-11-01
