@@ -1,7 +1,11 @@
 ---
 title: "Using crowdsourcing images to assess visual quality of urban landscapes: A case study of Xiamen Island"
 collection: publications
-category: manuscripts
+category: lead_articles
+pubtype: "Journal Article"
+authorship: "First author"
+authors: "Qi, Z., Duan, J., Su, H., Fan, Z., & Lan, W."
+pubnote: "Ecological Indicators, 154, 110793"
 permalink: /publication/crowdsourcing-images-visual-quality-xiamen
 excerpt: "Uses crowdsourced social media images and structural equation modeling to assess urban landscape visual quality on Xiamen Island."
 date: 2023-08-19
