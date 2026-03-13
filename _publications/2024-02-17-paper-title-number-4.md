@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 4"
+title: "Response to urban waterlogging control under different terrain conditions"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/response-to-urban-waterlogging-control-acsp-2024
+excerpt: "Conference paper presented at ACSP 2024 on urban waterlogging control strategies under different terrain conditions."
+date: 2024-11-01
+venue: "ACSP Annual Conference 2024"
+paperurl: "https://www.acsp.org/resource/collection/59C8DA2D-F881-4A31-8980-FC9A8E83D780/ACSP2024_Bk_of_Abstracts_v3.pdf"
+citation: 'Qi, Z. (2024). &quot;Response to urban waterlogging control under different terrain conditions.&quot; <i>ACSP Annual Conference 2024</i>.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This conference paper discusses how urban waterlogging control strategies respond to different terrain conditions and was presented at ACSP 2024.
