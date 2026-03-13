@@ -1,7 +1,11 @@
 ---
 title: "城中村改造的包容性困局与共有产权模式探索——基于产权社会学视角"
 collection: publications
-category: manuscripts
+category: coauthored_articles
+pubtype: "Journal Article"
+authorship: "Co-author"
+authors: "王雨，王心怡，齐卓旭，田莉"
+pubnote: "城市规划, network first publication"
 permalink: /publication/inclusive-urban-village-redevelopment-co-ownership
 excerpt: "从产权社会学视角分析城中村改造中的包容性困局，并提出共有产权民租房模式。"
 date: 2026-03-04
