@@ -1,7 +1,11 @@
 ---
 title: "Revisiting the effects of the built environment on place attachment: Individual’s emotion and perceived built environment as mediators"
 collection: publications
-category: manuscripts
+category: lead_articles
+pubtype: "Journal Article"
+authorship: "First author"
+authors: "Qi, Z., Xu, J., Bai, J., & Duan, J."
+pubnote: "Frontiers of Architectural Research, advance online publication"
 permalink: /publication/built-environment-place-attachment-mediators
 excerpt: "Examines how perceived built environment and individual emotion mediate the relationship between objective streetscape characteristics and place attachment at the pedestrian scale."
 date: 2026-02-18
