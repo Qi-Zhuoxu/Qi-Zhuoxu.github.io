@@ -23,14 +23,24 @@
     <p class="pub-authors">{{ post.authors }}</p>
   {% endif %}
 
-  <p class="pub-meta">
-    {% if post.venue %}
-      <span>{{ post.venue }}</span>
-    {% endif %}
-    {% if post.pubnote %}
-      <span>{{ post.pubnote }}</span>
-    {% endif %}
-  </p>
+  {% assign clean_note = post.pubnote %}
+  {% if post.venue and post.pubnote and post.pubnote contains post.venue %}
+    {% assign clean_note = post.pubnote | remove_first: post.venue %}
+    {% assign clean_note = clean_note | remove_first: ", " %}
+    {% assign clean_note = clean_note | remove_first: "，" %}
+    {% assign clean_note = clean_note | strip %}
+  {% endif %}
+
+  {% if post.venue or clean_note %}
+    <p class="pub-meta">
+      {% if post.venue %}
+        <span>{{ post.venue }}</span>
+      {% endif %}
+      {% if clean_note and clean_note != "" %}
+        <span>{{ clean_note }}</span>
+      {% endif %}
+    </p>
+  {% endif %}
 
   {% if post.patent_no or post.grant_no %}
     <p class="pub-patent-no">
