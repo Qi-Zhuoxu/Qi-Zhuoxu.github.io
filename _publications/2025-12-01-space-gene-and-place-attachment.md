@@ -1,7 +1,11 @@
 ---
 title: "从物质形态到情感联结：空间基因场所依恋研究"
 collection: publications
-category: manuscripts
+category: lead_articles
+pubtype: "Journal Article"
+authorship: "First author"
+authors: "齐卓旭，段进，苏航营，刘晋华，徐金图"
+pubnote: "城市规划, 49(12): 75-84"
 permalink: /publication/space-gene-and-place-attachment
 excerpt: "基于苏州姑苏区527名居民调查，运用结构方程模型研究空间基因感知与社会属性对场所依恋的形成、影响和传导路径。"
 date: 2025-12-01
