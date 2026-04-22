@@ -1,10 +1,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Qi Zhuoxu"
+title                    : "Qi Zhuoxu (齐卓旭)"
 title_separator          : "-"
-name                     : &name "Qi Zhuoxu"
-description              : &description "Qi Zhuoxu | Urban and Rural Planning | Space genes, public perception, place attachment, visual landscape and urban thermal environment"
+name                     : &name "Qi Zhuoxu (齐卓旭)"
+description              : &description "Qi Zhuoxu (齐卓旭)| Urban and Rural Planning | Space genes, public perception, place attachment, visual landscape and urban thermal environment"
 url                      : https://qi-zhuoxu.github.io
 baseurl                  : ""
 repository               : "Qi-Zhuoxu/Qi-Zhuoxu.github.io"
@@ -14,7 +14,7 @@ repository               : "Qi-Zhuoxu/Qi-Zhuoxu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   avatar           : "Qi-Zhuoxu.png"
-  name             : "Qi Zhuoxu"
+  name             : "Qi Zhuoxu (齐卓旭)"
   pronouns         :
   bio              : "PhD candidate in Urban and Rural Planning at Southeast University. Research interests include space genes, public perception, place attachment, visual landscape, and urban thermal environment."
   location         : "Nanjing, China"
@@ -114,8 +114,8 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
+google_site_verification : e8fSkzqQg6Q7FI-WnKq8Uv9qUMrk0AJdmxZcBogIJGY
+bing_site_verification   : 
 alexa_site_verification  :
 yandex_site_verification :
 
