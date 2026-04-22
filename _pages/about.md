@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About"
+title: Personal Website
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am **Qi Zhuoxu**, a PhD candidate in **Urban and Rural Planning** at **Southeast University**. My research focuses on **space genes and public perception**, and further integrates **place attachment**, **visual landscape**, and **urban thermal environment**. I combine planning theory with multi-source spatiotemporal data, machine learning, and natural language processing.
+I am **Qi Zhuoxu （齐卓旭）**, a PhD candidate in **Urban and Rural Planning** at **Southeast University**. My research focuses on **space genes and public perception**, and further integrates **place attachment**, **visual landscape**, and **urban thermal environment**. I combine planning theory with multi-source spatiotemporal data, machine learning, and natural language processing.
 
 I received my bachelor's degree from **Xi’an University of Architecture and Technology**, and completed my master's degree at **Southeast University** under the supervision of **Academician Duan Jin**. From **May 2025 to May 2026**, I have been undertaking a joint doctoral training program at the **National University of Singapore**, supervised by **Professor Heng Chye Kiang**.
 
